@@ -163,4 +163,4 @@ for word in test_tokens:
     #print(in_text)
     
 pplxty = np.exp(-1*logp/c)
-print c
+print(pplxty)
