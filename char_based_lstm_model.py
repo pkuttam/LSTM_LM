@@ -1,6 +1,3 @@
-import pandas as pd
-import collections
-import matplotlib.pyplot as plt
 import numpy as np
 import string
 import nltk
